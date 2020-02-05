@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb://dev_1:dev_1@devconnector-shard-00-00-hrk13.mongodb.net:27017,devconnector-shard-00-01-hrk13.mongodb.net:27017,devconnector-shard-00-02-hrk13.mongodb.net:27017/test?ssl=true&replicaSet=DevConnector-shard-0&authSource=admin&retryWrites=true&w=majority",
-    "jwtSecret": "12345677",
-    "githubClientId": "f2bd18972474c78dce9b",
-    "githubSecret": "e44f156204b8a9b1de12c3651efd8ff02dc15489"
-}
